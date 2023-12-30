@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mp64yVSO11hh1MA4Xv+h7yw5FbTH11+PlxyrFb1A+WRES9Oka52k+Qv2jRJJ0jiKK0Squom7zQZT1zJjg0hHcA==",
+  "dgSpecHash": "rmhbMwFz293LrOBxv75ut4HujsVqyVMcorgffWGzC5Qiqw8VuoN6QBxLBQOflTOaxRSLY7Rq7V1ygm111jRaDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Антон\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Антон\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
