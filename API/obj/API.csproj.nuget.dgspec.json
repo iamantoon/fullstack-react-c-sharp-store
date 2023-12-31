@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\api\\API.csproj": {}
+    "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\api\\API.csproj": {
+    "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\api\\API.csproj",
+        "projectPath": "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Антон\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\api\\obj\\",
+        "outputPath": "C:\\Users\\Антон\\Desktop\\fullstack-c-sharp-react-store\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
