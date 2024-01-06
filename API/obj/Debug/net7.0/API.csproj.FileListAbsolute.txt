@@ -80,3 +80,16 @@ C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\M
 C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\Stripe.net.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Антон\Desktop\fullstack-c-sharp-react-store\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

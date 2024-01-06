@@ -7,6 +7,8 @@ namespace API.Entities
         public int Id { get; set; }
         public string BuyerId { get; set; } // randomly generated id so that we can keep track of whose basket belongs to who
         public List<BasketItem> Items { get; set; } = new();
+        public string PaymentIntentId { get; set; }
+        public string ClientSecret { get; set; }
         public void AddItem(Product product, int quantity)
         {
             if (Items.All(item => item.ProductId != product.Id)){
